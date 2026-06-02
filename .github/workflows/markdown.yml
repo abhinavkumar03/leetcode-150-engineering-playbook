@@ -1,0 +1,37 @@
+name: Auto Merge Dev to Main
+
+on:
+  push:
+    branches:
+      - abhinavkumardev
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Create Pull Request
+        id: cpr
+        uses: peter-evans/create-pull-request@v7
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: auto-pr-dev-to-main
+          base: main
+          title: "Auto merge dev → main"
+          body: "Automatically created from abhinavkumardev branch."
+
+      - name: Enable Auto Merge
+        if: steps.cpr.outputs.pull-request-number
+        run: |
+          gh pr merge ${{ steps.cpr.outputs.pull-request-number }} \
+            --merge \
+            --auto
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
