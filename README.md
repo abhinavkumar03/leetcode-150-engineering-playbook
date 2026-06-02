@@ -22,21 +22,21 @@ A structured guide to mastering Data Structures and Algorithms through pattern-b
 
 ## Progress
 
-| Category | Completed | Total |
-|-----------|------------|--------|
-| Arrays | 0 | 30 |
-| Strings | 0 | 15 |
-| Hashing | 0 | 10 |
-| Two Pointers | 0 | 10 |
-| Sliding Window | 0 | 10 |
-| Trees | 0 | 20 |
-| Graphs | 0 | 15 |
-| Dynamic Programming | 0 | 20 |
-| Others | 0 | 20 |
+|       Category      | Completed | Total |
+|---------------------|-----------|-------|
+| Arrays              | 1         | 30    |
+| Strings             | 0         | 15    |
+| Hashing             | 0         | 10    |
+| Two Pointers        | 0         | 10    |
+| Sliding Window      | 0         | 10    |
+| Trees               | 0         | 20    |
+| Graphs              | 0         | 15    |
+| Dynamic Programming | 0         | 20    |
+| Others              | 0         | 20    |
 
 ### Overall
 
-0 / 150 Completed
+1 / 150 Completed
 
 ---
 
@@ -75,18 +75,26 @@ A structured guide to mastering Data Structures and Algorithms through pattern-b
 
 ## Repository Statistics
 
-| Metric | Value |
-|----------|----------|
-| Problems Solved | 0 |
-| Patterns Covered | 0 |
-| Languages Supported | 3 |
-| Explanations Written | 0 |
-| Dry Runs Created | 0 |
+| Metric                | Value |
+|-----------------------|-------|
+| Problems Solved       | 1     |
+| Patterns Covered      | 1     |
+| Languages Supported   | 3     |
+| Explanations Written  | 1     |
+| Dry Runs Created      | 1     |
 
 ---
 
 ## Problem Index
 
-| # | Problem | Difficulty | Pattern | Status |
-|----|---------|-----------|---------|---------|
+| # |       Problem       | Difficulty |    Pattern     | Status  |
+|----|--------------------|------------|----------------|---------|
+| 88 | Merge Sorted Array |    Easy    |  Two Pointers  |  Done   |'
+
+
+
+| 1 | Two Sum | Easy | Hash Map | ⏳ |'
+| 1 | Two Sum | Easy | Hash Map | ⏳ |'
+| 1 | Two Sum | Easy | Hash Map | ⏳ |'
+| 1 | Two Sum | Easy | Hash Map | ⏳ |'
 | 1 | Two Sum | Easy | Hash Map | ⏳ |'
