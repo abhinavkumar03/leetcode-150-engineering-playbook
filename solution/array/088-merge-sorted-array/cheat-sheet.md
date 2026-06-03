@@ -1,5 +1,12 @@
 ## Pattern Summary
 
+## Algorithm Visualization
+
+![](./assets/merge-process-diagram.png)
+![](.assets/flow-diagram.png) 
+![](./assets/decision-tree.png) 
+![](./assets/state-transition-diagram.png) 
+
 ### Primary Pattern
 
 ```text

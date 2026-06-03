@@ -1,5 +1,7 @@
 # Merge Sorted Array
 
+![Merge Sorted Array Visualization](../../../assets/images/merge-sorted-array-cover.png)
+
 ## Problem Statement
 
 You are given two integer arrays `nums1` and `nums2`, sorted in non-decreasing order, and two integers `m` and `n`, representing the number of valid elements in `nums1` and `nums2`.
