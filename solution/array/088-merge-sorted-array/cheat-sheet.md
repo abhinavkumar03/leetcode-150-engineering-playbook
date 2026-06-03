@@ -2,10 +2,10 @@
 
 ## Algorithm Visualization
 
-![](../../../assets/images/merge-process-diagram.png)
-![](../../../assets/images/flow-diagram.png) 
-![](../../../assets/images/decision-tree.png) 
-![](../../../assets/images/state-transition-diagram.png) 
+![](./assets/merge-process-diagram.png)
+![](.assets/flow-diagram.png) 
+![](./assets/decision-tree.png) 
+![](./assets/state-transition-diagram.png) 
 
 ### Primary Pattern
 
