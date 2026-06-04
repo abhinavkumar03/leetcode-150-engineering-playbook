@@ -24,10 +24,10 @@ A structured guide to mastering Data Structures and Algorithms through pattern-b
 
 |       Category      | Completed | Total |
 |---------------------|-----------|-------|
-| Arrays              | 2         | 30    |
+| Arrays              | 3         | 30    |
 | Strings             | 0         | 15    |
 | Hashing             | 0         | 10    |
-| Two Pointers        | 0         | 10    |
+| Two Pointers        | 3         | 10    |
 | Sliding Window      | 0         | 10    |
 | Trees               | 0         | 20    |
 | Graphs              | 0         | 15    |
@@ -36,7 +36,7 @@ A structured guide to mastering Data Structures and Algorithms through pattern-b
 
 ### Overall
 
-2 / 150 Completed
+3 / 150 Completed
 
 ---
 
@@ -77,7 +77,7 @@ A structured guide to mastering Data Structures and Algorithms through pattern-b
 
 | Metric                | Value |
 |-----------------------|-------|
-| Problems Solved       | 2     |
+| Problems Solved       | 3     |
 | Patterns Covered      | 1     |
 | Languages Supported   | 3     |
 | Explanations Written  | 1     |
@@ -87,7 +87,8 @@ A structured guide to mastering Data Structures and Algorithms through pattern-b
 
 ## Problem Index
 
-| # |       Problem       | Difficulty |    Pattern     | Status  |
-|----|--------------------|------------|----------------|---------|
-| 88 | Merge Sorted Array |    Easy    |  Two Pointers  |  Done   |
-| 27 | Remove Element     |    Easy    |  Two Pointers  |  Done   |
+| # |       Problem                            | Difficulty |    Pattern     | Status  |
+|----|-----------------------------------------|------------|----------------|---------|
+| 88 | Merge Sorted Array                      |    Easy    |  Two Pointers  |  Done   |
+| 27 | Remove Element                          |    Easy    |  Two Pointers  |  Done   |
+| 26 | Remove Duplicates from Sorted Array     |    Easy    |  Two Pointers  |  Done   |
