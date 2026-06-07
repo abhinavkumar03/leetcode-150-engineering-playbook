@@ -1,5 +1,15 @@
 # Rotate Array (LeetCode 189) — Cheat Sheet
 
+
+## Visual Overview
+
+![Rotate Array Overview](./assets/rotate-array-overview.png)
+![Reversal Technique](./assets/reversal-technique.png)
+![State Transition](./assets/state-transition.png)
+![Complexity Comparison](./assets/complexity-comparison.png)
+![Interview Flow](./assets/interview-flow.png)
+
+
 ## Pattern Summary
 
 ### Primary Pattern
