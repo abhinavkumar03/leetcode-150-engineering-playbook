@@ -24,7 +24,7 @@ A structured guide to mastering Data Structures and Algorithms through pattern-b
 
 |       Category      | Completed | Total |
 |---------------------|-----------|-------|
-| Arrays              | 6         | 30    |
+| Arrays              | 7         | 30    |
 | Strings             | 0         | 15    |
 | Hashing             | 0         | 10    |
 | Two Pointers        | 5         | 10    |
@@ -36,7 +36,7 @@ A structured guide to mastering Data Structures and Algorithms through pattern-b
 
 ### Overall
 
-6 / 150 Completed
+7 / 150 Completed
 
 ---
 
@@ -77,8 +77,8 @@ A structured guide to mastering Data Structures and Algorithms through pattern-b
 
 | Metric                | Value |
 |-----------------------|-------|
-| Problems Solved       | 6     |
-| Patterns Covered      | 3     |
+| Problems Solved       | 7     |
+| Patterns Covered      | 4     |
 | Languages Supported   | 3     |
 | Explanations Written  | 1     |
 | Dry Runs Created      | 1     |
@@ -95,3 +95,4 @@ A structured guide to mastering Data Structures and Algorithms through pattern-b
 | 80  | Remove Duplicates from Sorted Array II  |    Medium    |     Two Pointers     |  Done   |
 | 169 | Majority Element                        |     Easy     |  Boyer-Moore Voting  |  Done   |
 | 189 | Rotate Array                            |    Medium    |  Reversal Technique  |  Done   |
+| 121 | Best Time to Buy and Sell Stock         |     Easy     |    Running Minimum   |  Done   |
