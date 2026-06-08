@@ -1,5 +1,27 @@
 # Cheat Sheet — Best Time to Buy and Sell Stock (LeetCode 121)
 
+## Visual Explanation
+
+### Stock Price Timeline
+
+![Stock Price Timeline](assets/stock-price-timeline.png)
+
+### Running Minimum Pattern
+
+![Running Minimum](assets/running-minimum-visualization.png)
+
+### State Transition
+
+![State Transition](assets/state-transition-diagram.png)
+
+### Profit Evolution
+
+![Profit Evolution](assets/profit-evolution-chart.png)
+
+### Decision Tree
+
+![Decision Tree](assets/decision-tree.png)
+
 ## Pattern Summary
 
 ### Primary Pattern
