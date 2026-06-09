@@ -1,5 +1,23 @@
 # Best Time to Buy and Sell Stock II — Quick Revision Sheet
 
+## Visual Explanation
+
+### Greedy Flow
+![Greedy Flow](./assets/stock-ii-greedy-flow.png)
+
+### Profit Accumulation
+![Profit Accumulation](./assets/stock-ii-profit-accumulation.png)
+
+### Decision Tree
+![Decision Tree](./assets/stock-ii-decision-tree.png)
+
+### Interview Explanation Visual
+![Interview Explanation Visual](./assets/stock-ii-interview-explanation.png)
+
+### Peak vs Greedy Comparison
+![Peak vs Greedy Comparison](./assets/stock-ii-comparison.png)
+
+
 ## Pattern Summary
 
 ### Primary Pattern
