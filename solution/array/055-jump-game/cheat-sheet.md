@@ -1,5 +1,28 @@
 # Jump Game — Cheat Sheet
 
+## Visual Explanation
+
+### Reachability Expansion Diagram
+
+![Reachability Expansion Diagram](./assets/jump-game-reachability.png)
+
+### State Machine Diagram
+
+![State Machine Diagram](./assets/jump-game-state-machine.png)
+
+### Flowchart Diagram
+
+![Flowchart Diagram](./assets/jump-game-flowchart.png)
+
+### Decision Tree Diagram
+
+![Decision Tree Diagram](./assets/jump-game-decision-tree.png)
+
+### Dry Run Visualization
+
+![Dry Run Visualization](./assets/jump-game-dry-run.png)
+
+
 ## Pattern Summary
 
 ### Pattern
