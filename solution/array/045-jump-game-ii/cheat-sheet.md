@@ -1,5 +1,28 @@
 # Jump Game II — Cheat Sheet
 
+## Visual Explanation
+
+### Algorithm Overview
+
+![Educational Infographic](./assets/jump-game-ii-overview.png)
+
+### Greedy Range Expansion
+
+![Greedy Range Expansion](./assets/range-expansion.png)
+
+### Interview Whiteboard Diagram
+
+![Interview Whiteboard Diagram](./assets/interview-whiteboard.png)
+
+### State Transition Visualization
+
+![State Transition Visualization](./assets/state-transition.png)
+
+### Dry Run Table Infographic
+
+![Dry Run Table Infographic](./assets/dry-run-table.png)
+
+
 ## Pattern Summary
 
 ### Primary Pattern
