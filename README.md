@@ -24,7 +24,7 @@ A structured guide to mastering Data Structures and Algorithms through pattern-b
 
 |       Category      | Completed | Total |
 |---------------------|-----------|-------|
-| Arrays              | 9         | 30    |
+| Arrays              | 10        | 30    |
 | Strings             | 0         | 15    |
 | Hashing             | 0         | 10    |
 | Two Pointers        | 5         | 10    |
@@ -36,7 +36,7 @@ A structured guide to mastering Data Structures and Algorithms through pattern-b
 
 ### Overall
 
-8 / 150 Completed
+10 / 150 Completed
 
 ---
 
@@ -77,7 +77,7 @@ A structured guide to mastering Data Structures and Algorithms through pattern-b
 
 | Metric                | Value |
 |-----------------------|-------|
-| Problems Solved       | 9     |
+| Problems Solved       | 10    |
 | Patterns Covered      | 4     |
 | Languages Supported   | 3     |
 | Explanations Written  | 1     |
@@ -98,3 +98,4 @@ A structured guide to mastering Data Structures and Algorithms through pattern-b
 | 121 | Best Time to Buy and Sell Stock         |     Easy     |    Running Minimum   |  Done   |
 | 122 | Best Time to Buy and Sell Stock II      |    Medium    |        Greedy        |  Done   |
 | 55  | Jump Game                               |    Medium    |        Greedy        |  Done   |
+| 45  | Jump Game II                            |    Medium    |        Greedy        |  Done   |
