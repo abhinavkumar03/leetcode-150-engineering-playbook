@@ -1,6 +1,20 @@
 # 274. H-Index — Cheat Sheet
 
----
+## Visual Explanation
+
+### Algorithm Overview
+
+![Problem Overview](./assets/h-index-overview.png)
+
+### Threshold Analysis
+
+![Threshold Analysis](./assets/h-index-threshold-analysis.png)
+
+### Bucket Sort
+
+![Bucket Sort](./assets/h-index-bucket-sort.png)
+
+
 
 # Pattern Summary
 
