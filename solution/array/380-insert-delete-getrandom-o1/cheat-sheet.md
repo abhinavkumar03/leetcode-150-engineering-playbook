@@ -1,5 +1,23 @@
 # Cheat Sheet — 380. Insert Delete GetRandom O(1)
 
+## Visual Overview
+
+### DSA Diagram
+![DSA Diagram](./assets/educational-dsa-diagram.png)
+
+### Swap And Remove Diagram
+![Swap And Remove Diagram](./assets/swap-and-remove-deep-dive.png)
+
+### RandomizedSet Internal Design
+![RandomizedSet Internal Design](./assets/randomized-set-internal-design.png)
+
+### Whiteboard Style
+![Whiteboard Style](./assets/whiteboard-style.png)
+
+### Graphic
+![Graphic](./assets/graphic.png)
+
+
 ---
 
 # Pattern Summary
