@@ -87,16 +87,17 @@ A structured guide to mastering Data Structures and Algorithms through pattern-b
 
 ## Problem Index
 
-| #   |       Problem                           |  Difficulty  |       Pattern        | Status  |
-|-----|-----------------------------------------|--------------|----------------------|---------|
-| 88  | Merge Sorted Array                      |     Easy     |     Two Pointers     |  Done   |
-| 27  | Remove Element                          |     Easy     |     Two Pointers     |  Done   |
-| 26  | Remove Duplicates from Sorted Array     |     Easy     |     Two Pointers     |  Done   |
-| 80  | Remove Duplicates from Sorted Array II  |    Medium    |     Two Pointers     |  Done   |
-| 169 | Majority Element                        |     Easy     |  Boyer-Moore Voting  |  Done   |
-| 189 | Rotate Array                            |    Medium    |  Reversal Technique  |  Done   |
-| 121 | Best Time to Buy and Sell Stock         |     Easy     |    Running Minimum   |  Done   |
-| 122 | Best Time to Buy and Sell Stock II      |    Medium    |        Greedy        |  Done   |
-| 55  | Jump Game                               |    Medium    |        Greedy        |  Done   |
-| 45  | Jump Game II                            |    Medium    |        Greedy        |  Done   |
-| 274 | H-Index                                 |    Medium    | Counting/Bucket Sort |  Done   |
+| #   |       Problem                           |  Difficulty  |       Pattern            | Status  |
+|-----|-----------------------------------------|--------------|--------------------------|---------|
+| 88  | Merge Sorted Array                      |     Easy     |      Two Pointers        |  Done   |
+| 27  | Remove Element                          |     Easy     |      Two Pointers        |  Done   |
+| 26  | Remove Duplicates from Sorted Array     |     Easy     |      Two Pointers        |  Done   |
+| 80  | Remove Duplicates from Sorted Array II  |    Medium    |      Two Pointers        |  Done   |
+| 169 | Majority Element                        |     Easy     |   Boyer-Moore Voting     |  Done   |
+| 189 | Rotate Array                            |    Medium    |   Reversal Technique     |  Done   |
+| 121 | Best Time to Buy and Sell Stock         |     Easy     |     Running Minimum      |  Done   |
+| 122 | Best Time to Buy and Sell Stock II      |    Medium    |         Greedy           |  Done   |
+| 55  | Jump Game                               |    Medium    |         Greedy           |  Done   |
+| 45  | Jump Game II                            |    Medium    |         Greedy           |  Done   |
+| 274 | H-Index                                 |    Medium    |  Counting/Bucket Sort    |  Done   |
+| 380 | Insert Delete GetRandom O(1)            |    Medium    |  Hash Map + Array Design |  Done   |
