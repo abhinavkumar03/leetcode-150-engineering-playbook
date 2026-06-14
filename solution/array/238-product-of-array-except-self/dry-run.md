@@ -509,7 +509,3 @@ This achieves the optimal:
 Time  : O(n)
 Space : O(1)
 ```
-
-**PHASE 4 Complete.**
-
-Reply with **Next** to continue to **PHASE 5 — interview-notes.md**.
