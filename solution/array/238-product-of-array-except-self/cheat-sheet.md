@@ -1,6 +1,20 @@
-# `cheat-sheet.md`
-
 # Product of Array Except Self — Cheat Sheet
+
+## Visual Overview
+
+### Product Except Self Overview
+![Product Except Self Overview](./assets/product-except-self-overview.png)
+
+### Prefix Suffix Products
+![Prefix Suffix Products](./assets/prefix-suffix-products.png)
+
+### Optimization Journey
+![Optimization Journey](./assets/optimization-journey.png)
+
+### Space Optimization
+![Space Optimization](./assets/space-optimization.png)
+
+
 
 ## Pattern Summary
 
