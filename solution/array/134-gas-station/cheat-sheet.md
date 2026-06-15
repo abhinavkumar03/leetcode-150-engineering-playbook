@@ -1,5 +1,20 @@
 # 134. Gas Station — Cheat Sheet
 
+## Visual Explanation
+
+### Whiteboard Style
+![Whiteboard Style](./assets/white-board-style.png)
+
+### Greedy Elimination Infographic
+![Greedy Elimination Infographic](./assets/greedy-elimination.png)
+
+### State Transition Diagram
+![State Transition Diagram](./assets/state-transition-diagram.png)
+
+### Circular Route Resource Flow
+![Circular Route Resource Flow](./assets/circular-route-resource-flow.png)
+
+
 ---
 
 # Pattern Summary
