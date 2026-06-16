@@ -24,7 +24,7 @@ A structured guide to mastering Data Structures and Algorithms through pattern-b
 
 |       Category      | Completed | Total |
 |---------------------|-----------|-------|
-| Arrays              | 13        | 30    |
+| Arrays              | 14        | 30    |
 | Strings             | 0         | 15    |
 | Hashing             | 0         | 10    |
 | Two Pointers        | 5         | 10    |
@@ -36,7 +36,7 @@ A structured guide to mastering Data Structures and Algorithms through pattern-b
 
 ### Overall
 
-13 / 150 Completed
+14 / 150 Completed
 
 ---
 
@@ -77,7 +77,7 @@ A structured guide to mastering Data Structures and Algorithms through pattern-b
 
 | Metric                | Value |
 |-----------------------|-------|
-| Problems Solved       | 13    |
+| Problems Solved       | 14    |
 | Patterns Covered      | 4     |
 | Languages Supported   | 3     |
 | Explanations Written  | 1     |
@@ -87,7 +87,7 @@ A structured guide to mastering Data Structures and Algorithms through pattern-b
 
 ## Problem Index
 
-| #   |       Problem                           |  Difficulty  |       Pattern            | Status  |
+| #   |       Problem                           |  Difficulty  |       Pattern            |  Status |
 |-----|-----------------------------------------|--------------|--------------------------|---------|
 | 88  | Merge Sorted Array                      |     Easy     |      Two Pointers        |  Done   |
 | 27  | Remove Element                          |     Easy     |      Two Pointers        |  Done   |
@@ -102,3 +102,4 @@ A structured guide to mastering Data Structures and Algorithms through pattern-b
 | 274 | H-Index                                 |    Medium    |  Counting/Bucket Sort    |  Done   |
 | 380 | Insert Delete GetRandom O(1)            |    Medium    |  Hash Map + Array Design |  Done   |
 | 134 | Gas Station                             |    Medium    |         Greedy           |  Done   |
+| 135 | Candy                                   |    Hard      |   Bidirectional Greedy   |  Done   |
