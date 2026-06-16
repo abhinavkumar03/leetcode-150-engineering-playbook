@@ -1,5 +1,23 @@
 # Candy (135) — Cheat Sheet
 
+## Visual Explanation
+
+### Workflow
+![Workflow](./assets/workflow.png)
+
+### Two-Pass Greedy Visualization
+![Two-Pass Greedy Visualization](./assets/two-pass-greedy.png)
+
+### State Transition Diagram
+![State Transition Diagram](./assets/state-transition.png)
+
+### Peak and Valley Patterns
+![Peak and Valley Patterns](./assets/peak-valley-patterns.png)
+
+### Decision Tree
+![Decision Tree](./assets/decision-tree.png)
+
+
 ## Pattern Summary
 
 **Primary Pattern:** Greedy
