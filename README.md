@@ -24,7 +24,7 @@ A structured guide to mastering Data Structures and Algorithms through pattern-b
 
 |       Category      | Completed | Total |
 |---------------------|-----------|-------|
-| Arrays              | 15        | 30    |
+| Arrays              | 16        | 30    |
 | Strings             | 0         | 15    |
 | Hashing             | 0         | 10    |
 | Two Pointers        | 5         | 10    |
@@ -36,7 +36,7 @@ A structured guide to mastering Data Structures and Algorithms through pattern-b
 
 ### Overall
 
-15 / 150 Completed
+16 / 150 Completed
 
 ---
 
@@ -77,7 +77,7 @@ A structured guide to mastering Data Structures and Algorithms through pattern-b
 
 | Metric                | Value |
 |-----------------------|-------|
-| Problems Solved       | 15    |
+| Problems Solved       | 16    |
 | Patterns Covered      | 4     |
 | Languages Supported   | 3     |
 | Explanations Written  | 1     |
@@ -102,5 +102,6 @@ A structured guide to mastering Data Structures and Algorithms through pattern-b
 | 274 | H-Index                                 |    Medium    |  Counting/Bucket Sort    |  Done   |
 | 380 | Insert Delete GetRandom O(1)            |    Medium    |  Hash Map + Array Design |  Done   |
 | 134 | Gas Station                             |    Medium    |         Greedy           |  Done   |
-| 135 | Candy                                   |    Hard      |   Bidirectional Greedy   |  Done   |
-| 42  | Trapping Rain Water                     |    Hard      |       Two Pointers       |  Done   |
+| 135 | Candy                                   |     Hard     |   Bidirectional Greedy   |  Done   |
+| 42  | Trapping Rain Water                     |     Hard     |       Two Pointers       |  Done   |
+| 13  | Roman to Integer                        |     Easy     | HashMap/String Traversal |  Done   |
