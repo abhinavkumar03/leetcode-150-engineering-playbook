@@ -1,5 +1,22 @@
 # Roman to Integer — Cheat Sheet
 
+## Visual Overview
+
+![Educational Algorithm](assets/educational-algorithm.png)
+
+## Interview Whiteboard
+
+![Interview Whiteboard](assets/interview-whiteboard.png)
+
+## StFlowchart Visualization
+
+![Flowchart Visualization](assets/flowchart.png)
+
+## Cheat Sheet Poster
+
+![Cheat Sheet Poster](assets/flowchart.png)
+
+
 ## Pattern Summary
 
 **Primary Pattern:** Hash Map + String Traversal
