@@ -1,5 +1,21 @@
 # Trapping Rain Water — Cheat Sheet
 
+## Visual Overview
+
+![Trapping Rain Water](assets/trapping-rain-water-overview.png)
+
+## Two Pointer Workflow
+
+![Two Pointer](assets/trapping-rain-water-two-pointers.png)
+
+## State Transition Diagram
+
+![State Transition Diagram](assets/trapping-rain-water-state-transition.png)
+
+## Dry Run
+
+![Dry Run](assets/trapping-rain-water-dry-run.png)
+
 ## Pattern Summary
 
 ### Primary Pattern
