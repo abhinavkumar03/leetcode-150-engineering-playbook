@@ -1,6 +1,22 @@
 # LeetCode 58 — Length of Last Word
 
----
+
+## Visual Overview
+
+![Reverse Traversal Flow](assets/reverse-traversal-flow.png)
+
+## State Transition
+
+![State Transition](assets/state-transition.png)
+
+## Dry Run Visualization
+
+![Dry Run Visualization](assets/dry-run-visualization.png)
+
+## Pattern Summary
+
+![Pattern Summary](assets/pattern-summary.png)
+
 
 # Pattern Summary
 
