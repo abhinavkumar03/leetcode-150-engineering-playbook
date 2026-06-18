@@ -1,5 +1,26 @@
 # Integer to Roman — Cheat Sheet
 
+## Visual Overview
+
+![Integer To Roman Greedy Overview](assets/integer-to-roman-greedy-overview.png)
+
+## Integer To Roman Step By Step
+
+![Integer To Roman Step By Step](assets/integer-to-roman-step-by-step.png)
+
+## Integer To Roman State Transitions
+
+![Integer To Roman State Transitions](assets/integer-to-roman-state-transitions.png)
+
+## Greedy Pattern Integer To Roman
+
+![Greedy Pattern Integer To Roman](assets/greedy-pattern-integer-to-roman.png)
+
+## Integer To Roman Cheatsheet
+
+![Integer To Roman Cheatsheet](assets/integer-to-roman-cheatsheet.png)
+
+
 ## Pattern Summary
 
 ### Primary Pattern
