@@ -1,5 +1,9 @@
 # Longest Common Prefix — Cheat Sheet
 
+## Algorithm Visualization
+
+![Longest Common Prefix Flow](./assets/longest-common-prefix-flow.png)
+
 ## Pattern Summary
 
 ### Pattern Name
