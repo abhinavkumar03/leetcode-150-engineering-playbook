@@ -1,5 +1,10 @@
 # Reverse Words in a String — Cheat Sheet
 
+## Visual Explanation
+
+![Visual Explanation](./assets/visual-explanation.png)
+
+
 ## Pattern Summary
 
 ### Primary Pattern
