@@ -1,5 +1,26 @@
 # Zigzag Conversion (#6) — Cheat Sheet
 
+## Visual Overview
+
+![Zigzag Layout](assets/zigzag-layout.png)
+
+## State Machine
+
+![State Machine](assets/state-machine.png)
+
+## Row Buffer Approach
+
+![Row Buffer Approach](assets/row-buffer-approach.png)
+
+## Dry Run Visualization
+
+![Dry Run Visualization](assets/dry-run-visualization.png)
+
+## Interview Summary
+
+![Interview Summary](assets/interview-summary.png)
+
+
 ## Pattern Summary
 
 ### Primary Pattern
