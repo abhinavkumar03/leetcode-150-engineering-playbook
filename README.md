@@ -24,7 +24,7 @@ A structured guide to mastering Data Structures and Algorithms through pattern-b
 
 |       Category      | Completed | Total |
 |---------------------|-----------|-------|
-| Arrays              | 21        | 30    |
+| Arrays              | 22        | 30    |
 | Strings             | 0         | 15    |
 | Hashing             | 0         | 10    |
 | Two Pointers        | 5         | 10    |
@@ -36,7 +36,7 @@ A structured guide to mastering Data Structures and Algorithms through pattern-b
 
 ### Overall
 
-21 / 150 Completed
+22 / 150 Completed
 
 ---
 
@@ -77,7 +77,7 @@ A structured guide to mastering Data Structures and Algorithms through pattern-b
 
 | Metric                | Value |
 |-----------------------|-------|
-| Problems Solved       | 21    |
+| Problems Solved       | 22    |
 | Patterns Covered      | 5     |
 | Languages Supported   | 3     |
 | Explanations Written  | 1     |
@@ -87,26 +87,27 @@ A structured guide to mastering Data Structures and Algorithms through pattern-b
 
 ## Problem Index
 
-| #   |       Problem                           |  Difficulty  |            Pattern                 |  Status |
-|-----|-----------------------------------------|--------------|------------------------------------|---------|
-| 88  | Merge Sorted Array                      |     Easy     |           Two Pointers             |  Done   |
-| 27  | Remove Element                          |     Easy     |           Two Pointers             |  Done   |
-| 26  | Remove Duplicates from Sorted Array     |     Easy     |           Two Pointers             |  Done   |
-| 80  | Remove Duplicates from Sorted Array II  |    Medium    |           Two Pointers             |  Done   |
-| 169 | Majority Element                        |     Easy     |        Boyer-Moore Voting          |  Done   |
-| 189 | Rotate Array                            |    Medium    |        Reversal Technique          |  Done   |
-| 121 | Best Time to Buy and Sell Stock         |     Easy     |          Running Minimum           |  Done   |
-| 122 | Best Time to Buy and Sell Stock II      |    Medium    |              Greedy                |  Done   |
-| 55  | Jump Game                               |    Medium    |              Greedy                |  Done   |
-| 45  | Jump Game II                            |    Medium    |              Greedy                |  Done   |
-| 274 | H-Index                                 |    Medium    |       Counting/Bucket Sort         |  Done   |
-| 380 | Insert Delete GetRandom O(1)            |    Medium    |       Hash Map + Array Design      |  Done   |
-| 134 | Gas Station                             |    Medium    |              Greedy                |  Done   |
-| 135 | Candy                                   |     Hard     |        Bidirectional Greedy        |  Done   |
-| 42  | Trapping Rain Water                     |     Hard     |            Two Pointers            |  Done   |
-| 13  | Roman to Integer                        |     Easy     |      HashMap/String Traversal      |  Done   |
-| 12  | Integer to Roman                        |    Medium    |              Greedy                |  Done   |
-| 58  | Length of Last Word                     |     Easy     | String Traversal/Reverse Traversal |  Done   |
-| 14  | Longest Common Prefix                   |     Easy     |        Horizontal Scanning         |  Done   |
-| 151 | Reverse Words in a String               |    Medium    | Two Pointers + String Manipulation |  Done   |
-| 6   | Zigzag Conversion                       |    Medium    |              Strings               |  Done   |
+| #   |       Problem                                      |  Difficulty  |            Pattern                 |  Status |
+|-----|----------------------------------------------------|--------------|------------------------------------|---------|
+| 88  | Merge Sorted Array                                 |     Easy     |           Two Pointers             |  Done   |
+| 27  | Remove Element                                     |     Easy     |           Two Pointers             |  Done   |
+| 26  | Remove Duplicates from Sorted Array                |     Easy     |           Two Pointers             |  Done   |
+| 80  | Remove Duplicates from Sorted Array II             |    Medium    |           Two Pointers             |  Done   |
+| 169 | Majority Element                                   |     Easy     |        Boyer-Moore Voting          |  Done   |
+| 189 | Rotate Array                                       |    Medium    |        Reversal Technique          |  Done   |
+| 121 | Best Time to Buy and Sell Stock                    |     Easy     |          Running Minimum           |  Done   |
+| 122 | Best Time to Buy and Sell Stock II                 |    Medium    |              Greedy                |  Done   |
+| 55  | Jump Game                                          |    Medium    |              Greedy                |  Done   |
+| 45  | Jump Game II                                       |    Medium    |              Greedy                |  Done   |
+| 274 | H-Index                                            |    Medium    |       Counting/Bucket Sort         |  Done   |
+| 380 | Insert Delete GetRandom O(1)                       |    Medium    |       Hash Map + Array Design      |  Done   |
+| 134 | Gas Station                                        |    Medium    |              Greedy                |  Done   |
+| 135 | Candy                                              |     Hard     |        Bidirectional Greedy        |  Done   |
+| 42  | Trapping Rain Water                                |     Hard     |            Two Pointers            |  Done   |
+| 13  | Roman to Integer                                   |     Easy     |      HashMap/String Traversal      |  Done   |
+| 12  | Integer to Roman                                   |    Medium    |              Greedy                |  Done   |
+| 58  | Length of Last Word                                |     Easy     | String Traversal/Reverse Traversal |  Done   |
+| 14  | Longest Common Prefix                              |     Easy     |        Horizontal Scanning         |  Done   |
+| 151 | Reverse Words in a String                          |    Medium    | Two Pointers + String Manipulation |  Done   |
+| 6   | Zigzag Conversion                                  |    Medium    |              Strings               |  Done   |
+| 28  | Find the Index of the First Occurrence in a String |     Easy     |           String Matching          |  Done   |
