@@ -1,5 +1,22 @@
 # Cheat Sheet — Find the Index of the First Occurrence in a String
 
+## Visual Overview
+
+![String Matching Process](assets/state-machine.png)
+
+## Brute Force Search Visualization
+
+![Brute Force Search Visualization](assets/brute-force-search.png)
+
+## Complexity Comparison
+
+![Complexity Comparison](assets/complexity-comparison.png)
+
+## State Machine Visualization
+
+![State Machine Visualization](assets/state-machine.png)
+
+
 ## Pattern Summary
 
 ### Primary Pattern
