@@ -1,5 +1,18 @@
 # Text Justification (#68) — Cheat Sheet
 
+## Visual Overview
+
+![Text Justification Architecture](assets/text-justification-overview.png)
+
+## Space Distribution Visualization
+
+![Space Distribution Visualization](assets/space-distribution.png)
+
+## State Machine Visualization
+
+![State Machine Visualization](assets/state-machine.png)
+
+
 ## Pattern Summary
 
 ### Primary Pattern
