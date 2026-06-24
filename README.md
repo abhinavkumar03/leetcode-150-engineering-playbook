@@ -24,7 +24,7 @@ A structured guide to mastering Data Structures and Algorithms through pattern-b
 
 |       Category      | Completed | Total |
 |---------------------|-----------|-------|
-| Arrays              | 22        | 30    |
+| Arrays              | 23        | 30    |
 | Strings             | 0         | 15    |
 | Hashing             | 0         | 10    |
 | Two Pointers        | 5         | 10    |
@@ -36,7 +36,7 @@ A structured guide to mastering Data Structures and Algorithms through pattern-b
 
 ### Overall
 
-22 / 150 Completed
+23 / 150 Completed
 
 ---
 
@@ -77,7 +77,7 @@ A structured guide to mastering Data Structures and Algorithms through pattern-b
 
 | Metric                | Value |
 |-----------------------|-------|
-| Problems Solved       | 22    |
+| Problems Solved       | 23    |
 | Patterns Covered      | 5     |
 | Languages Supported   | 3     |
 | Explanations Written  | 1     |
@@ -111,3 +111,4 @@ A structured guide to mastering Data Structures and Algorithms through pattern-b
 | 151 | Reverse Words in a String                          |    Medium    | Two Pointers + String Manipulation |  Done   |
 | 6   | Zigzag Conversion                                  |    Medium    |              Strings               |  Done   |
 | 28  | Find the Index of the First Occurrence in a String |     Easy     |           String Matching          |  Done   |
+| 68  | Text Justification                                 |     Hard     |         Simulation, Greedy         |  Done   |
