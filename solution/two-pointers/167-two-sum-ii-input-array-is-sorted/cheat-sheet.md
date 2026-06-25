@@ -1,8 +1,9 @@
-# cheat-sheet.md
-
 # LeetCode 167 — Two Sum II (Input Array Is Sorted)
 
-> **One-page revision guide for quick interview preparation**
+## Visual Overview
+
+![Two Pointer Algorithm Visualization](assets/two-pointer-algorithm.png)
+
 
 ---
 
