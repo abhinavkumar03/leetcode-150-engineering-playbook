@@ -24,7 +24,7 @@ A structured guide to mastering Data Structures and Algorithms through pattern-b
 
 |       Category      | Completed | Total |
 |---------------------|-----------|-------|
-| Arrays              | 26        | 30    |
+| Arrays              | 27        | 30    |
 | Strings             | 0         | 15    |
 | Hashing             | 0         | 10    |
 | Two Pointers        | 5         | 10    |
@@ -36,7 +36,7 @@ A structured guide to mastering Data Structures and Algorithms through pattern-b
 
 ### Overall
 
-26 / 150 Completed
+27 / 150 Completed
 
 ---
 
@@ -77,7 +77,7 @@ A structured guide to mastering Data Structures and Algorithms through pattern-b
 
 | Metric                | Value |
 |-----------------------|-------|
-| Problems Solved       | 26    |
+| Problems Solved       | 27    |
 | Patterns Covered      | 5     |
 | Languages Supported   | 3     |
 | Explanations Written  | 1     |
@@ -115,3 +115,4 @@ A structured guide to mastering Data Structures and Algorithms through pattern-b
 | 26  | Remove Duplicates from Sorted Array                |     Easy     |            Two Pointers            |  Done   |
 | 392 | Is Subsequence                                     |     Easy     |            Two Pointers            |  Done   |
 | 167 | Two Sum II - Input Array Is Sorted                 |     Easy     |            Two Pointers            |  Done   |
+| 11  | Container With Most Water                          |    Medium    |            Two Pointers            |  Done   |
