@@ -1,9 +1,26 @@
 # 15. 3Sum — Cheat Sheet
 
-> **Pattern:** Sorting + Two Pointers  
-> **Difficulty:** Medium  
-> **Time Complexity:** O(n²)  
-> **Space Complexity:** O(1) *(excluding output and sorting implementation)*
+## Visual Overview
+
+![Algorithm Flowchart](assets/algorithm-flow.png)
+
+## Two Pointer Visualization
+
+![Two Pointer Visualization](assets/two-pointer-movement.png)
+
+## Duplicate Handling
+
+![Duplicate Handling](assets/duplicate-handling.png)
+
+## Dry Run Illustration
+
+![Dry Run Illustration](assets/dry-run-visual.png)
+
+## Complexity Comparison
+
+![Complexity Comparison](assets/complexity-comparison.png)
+
+
 
 ---
 
