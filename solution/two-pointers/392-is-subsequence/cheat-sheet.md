@@ -1,8 +1,25 @@
 # Cheat Sheet — 392. Is Subsequence
 
-A one-page revision guide for **LeetCode 392 – Is Subsequence**.
+## Visual Overview
 
----
+![Algorithm Flow Diagram](assets/algorithm-flow.png)
+
+## Two Pointer Walkthrough
+
+![Two Pointer Walkthrough](assets/two-pointer-walkthrough.png)
+
+## Decision Tree
+
+![Decision Tree](assets/decision-tree.png)
+
+## State Transition Diagram
+
+![State Transition Diagram](assets/state-transition.png)
+
+## Repository Banner
+
+![Repository Banner](assets/repository-banner.png)
+
 
 # Pattern Summary
 
