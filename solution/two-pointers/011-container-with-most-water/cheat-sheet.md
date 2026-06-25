@@ -1,8 +1,25 @@
-# cheat-sheet.md
-
 # Container With Most Water — Cheat Sheet
 
-A one-page quick revision guide for **LeetCode 11 — Container With Most Water**.
+## Visual Overview
+
+![Algorithm Flowchart](assets/algorithm-flow.png)
+
+## Pointer Movement
+
+![Pointer Movement](assets/pointer-movement.png)
+
+## State Transition
+
+![State Transition](assets/state-transition.png)
+
+## Greedy Decision
+
+![Greedy Decision](assets/greedy-proof.png)
+
+## Complexity Comparison
+
+![Complexity Comparison](assets/complexity-comparison.png)
+
 
 ---
 
