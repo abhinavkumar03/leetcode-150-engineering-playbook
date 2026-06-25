@@ -24,7 +24,7 @@ A structured guide to mastering Data Structures and Algorithms through pattern-b
 
 |       Category      | Completed | Total |
 |---------------------|-----------|-------|
-| Arrays              | 27        | 30    |
+| Arrays              | 28        | 30    |
 | Strings             | 0         | 15    |
 | Hashing             | 0         | 10    |
 | Two Pointers        | 5         | 10    |
@@ -36,7 +36,7 @@ A structured guide to mastering Data Structures and Algorithms through pattern-b
 
 ### Overall
 
-27 / 150 Completed
+28 / 150 Completed
 
 ---
 
@@ -77,7 +77,7 @@ A structured guide to mastering Data Structures and Algorithms through pattern-b
 
 | Metric                | Value |
 |-----------------------|-------|
-| Problems Solved       | 27    |
+| Problems Solved       | 28    |
 | Patterns Covered      | 5     |
 | Languages Supported   | 3     |
 | Explanations Written  | 1     |
@@ -116,3 +116,4 @@ A structured guide to mastering Data Structures and Algorithms through pattern-b
 | 392 | Is Subsequence                                     |     Easy     |            Two Pointers            |  Done   |
 | 167 | Two Sum II - Input Array Is Sorted                 |     Easy     |            Two Pointers            |  Done   |
 | 11  | Container With Most Water                          |    Medium    |            Two Pointers            |  Done   |
+| 15  | 3Sum                                               |    Medium    |        Two Pointers + Sorting      |  Done   |
