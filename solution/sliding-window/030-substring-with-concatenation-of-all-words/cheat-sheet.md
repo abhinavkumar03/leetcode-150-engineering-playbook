@@ -1,5 +1,30 @@
 # Sliding Window Cheat Sheet
 
+## Visual Overview
+
+![Sliding Window Algorithm Diagram](assets/sliding-window-workflow.png)
+
+## Sliding Window Movement
+
+![Sliding Window Movement](assets/window-expansion-contraction.png)
+
+## Multi-Offset Processing
+
+![Multi-Offset Processing](assets/multi-offset-processing.png)
+
+## State Transition Diagram
+
+![State Transition Diagram](assets/state-transition.png)
+
+## State Transition
+
+![State Transition](assets/state-transition.png)
+
+## Frequency Map Evolution
+
+![Frequency Map Evolution](assets/frequency-map-evolution.png)
+
+
 ## Problem
 
 **30. Substring with Concatenation of All Words**
