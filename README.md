@@ -117,3 +117,4 @@ A structured guide to mastering Data Structures and Algorithms through pattern-b
 | 167 | Two Sum II - Input Array Is Sorted                 |     Easy     |            Two Pointers            |  Done   |
 | 11  | Container With Most Water                          |    Medium    |            Two Pointers            |  Done   |
 | 15  | 3Sum                                               |    Medium    |        Two Pointers + Sorting      |  Done   |
+| 209 | Minimum Size Subarray Sum                          |    Medium    |           Sliding Window           |  Done   |
