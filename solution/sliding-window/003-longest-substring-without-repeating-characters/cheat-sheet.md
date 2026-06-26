@@ -1,8 +1,8 @@
 # LeetCode 3 — Longest Substring Without Repeating Characters
 
-> **One-Page Revision Sheet**
+## Visual Overview
 
----
+![Algorithm Flowchart](assets/sliding-window-flow.png)
 
 # Pattern Summary
 
