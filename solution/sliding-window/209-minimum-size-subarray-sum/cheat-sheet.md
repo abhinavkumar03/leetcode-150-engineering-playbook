@@ -1,8 +1,31 @@
 # Cheat Sheet — 209. Minimum Size Subarray Sum
 
-> **Goal:** One-page revision guide for quickly recalling the pattern, algorithm, complexity, and interview insights.
 
----
+## Visual Overview
+
+![Algorithm Flowchart](assets/sliding-window-overview.png)
+
+## Window Expansion & Contraction
+
+![Window Expansion & Contraction](assets/window-expansion-contraction.png)
+
+## Algorithm Flowchart
+
+![Algorithm Flowchart](assets/algorithm-flowchart.png)
+
+## Decision Tree
+
+![Decision Tree](assets/decision-tree.png)
+
+## State Transition
+
+![State Transition](assets/state-transition.png)
+
+## Dry Run Visualization
+
+![Dry Run Visualization](assets/dry-run-visual.png)
+
+
 
 # Pattern Summary
 
