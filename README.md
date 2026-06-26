@@ -24,7 +24,7 @@ A structured guide to mastering Data Structures and Algorithms through pattern-b
 
 |       Category      | Completed | Total |
 |---------------------|-----------|-------|
-| Arrays              | 28        | 30    |
+| Arrays              | 29        | 30    |
 | Strings             | 0         | 15    |
 | Hashing             | 0         | 10    |
 | Two Pointers        | 5         | 10    |
@@ -36,7 +36,7 @@ A structured guide to mastering Data Structures and Algorithms through pattern-b
 
 ### Overall
 
-28 / 150 Completed
+29 / 150 Completed
 
 ---
 
@@ -77,7 +77,7 @@ A structured guide to mastering Data Structures and Algorithms through pattern-b
 
 | Metric                | Value |
 |-----------------------|-------|
-| Problems Solved       | 28    |
+| Problems Solved       | 29    |
 | Patterns Covered      | 5     |
 | Languages Supported   | 3     |
 | Explanations Written  | 1     |
